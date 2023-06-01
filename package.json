@@ -7,5 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^13.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "20.2.5",
+    "@types/react": "18.2.7",
+    "@types/styled-components": "^5.1.26",
+    "typescript": "5.0.4"
   }
 }
