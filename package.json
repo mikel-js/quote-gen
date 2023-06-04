@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mui/material": "^5.13.3",
     "next": "^13.4.4",
     "styled-components": "^5.3.11"
   },
